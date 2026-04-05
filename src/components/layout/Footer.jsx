@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="border-t mt-20 py-8 px-6" style={{ borderColor: 'var(--border)' }}>
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
         <span className="font-mono text-sm" style={{ color: 'var(--muted)' }}>
-          &gt; R Akash // ECE @ VIT Chennai
+          &gt; R Akash // ECM @ VIT Chennai
         </span>
         <div className="flex gap-5">
           <a href="https://github.com/AkThetechie" target="_blank" rel="noreferrer" style={{ color: 'var(--muted)' }} className="hover:text-white transition-colors"><Github size={18} /></a>
